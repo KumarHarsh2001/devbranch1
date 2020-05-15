@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 222222222kkkkkkkk
 thish isn my wold
 ffffff
+=======
+222222222kkkkkkkk
+sssssss
+aaaaaaaa
+>>>>>>> dev1
+iiiiiiii
